@@ -1,6 +1,6 @@
 # ATIVIDADE 02 - Front End (Hugo)
 
-Criar uma calculadora funcional, utilizando JavaScript, para melhor aprendizagem.
+Criar uma calculadora funcional, utilizando Java Script, para melhor aprendizagem.
 
 ## 🎥 Demonstração
 
